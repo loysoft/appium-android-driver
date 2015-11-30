@@ -9,7 +9,7 @@
     "mobile",
     "mobile testing"
   ],
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "appium",
   "license": "Apache-2.0",
   "repository": {
@@ -30,7 +30,7 @@
   "dependencies": {
     "adm-zip": "^0.4.7",
     "appium-adb": "^2.0.1",
-    "appium-android-bootstrap": "^2.2.3",
+    "appium-android-bootstrap": "https://github.com/loysoft/appium-android-bootstrap.git",
     "appium-android-ime": "^2.0.0",
     "appium-base-driver": "^1.0.2",
     "appium-chromedriver": "^2.6.0",
